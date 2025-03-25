@@ -3,7 +3,7 @@ module github.com/micro-services-roadmap/oneid-core
 go 1.20
 
 require (
-	github.com/golang-jwt/jwt/v4 v4.5.1
+	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/uuid v1.6.0
 	github.com/gookit/goutil v0.6.18
 	github.com/jinzhu/copier v0.4.0
