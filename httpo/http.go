@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
-	"github.com/micro-services-roadmap/oneid-core/modelo"
+	"github.com/kongmsr/oneid-core/modelo"
 	"io"
 	"net/http"
 	"path"

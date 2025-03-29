@@ -3,7 +3,7 @@ package utilo
 import (
 	"crypto/rsa"
 	"errors"
-	"github.com/micro-services-roadmap/oneid-core/modelo"
+	"github.com/kongmsr/oneid-core/modelo"
 
 	jwt "github.com/golang-jwt/jwt/v4"
 )

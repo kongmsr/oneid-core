@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/micro-services-roadmap/oneid-core/modelo"
+	"github.com/kongmsr/oneid-core/modelo"
 	"strings"
 )
 

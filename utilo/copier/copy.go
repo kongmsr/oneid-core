@@ -3,7 +3,7 @@ package copier
 import (
 	"github.com/gookit/goutil/jsonutil"
 	"github.com/jinzhu/copier"
-	util "github.com/micro-services-roadmap/oneid-core/utilo"
+	util "github.com/kongmsr/oneid-core/utilo"
 	"github.com/spf13/cast"
 	"time"
 )

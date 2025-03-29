@@ -2,7 +2,7 @@ package httpo
 
 import (
 	"fmt"
-	"github.com/micro-services-roadmap/oneid-core/modelo"
+	"github.com/kongmsr/oneid-core/modelo"
 	"strconv"
 	"strings"
 	"testing"

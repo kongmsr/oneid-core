@@ -2,7 +2,7 @@ package copier
 
 import (
 	"fmt"
-	"github.com/micro-services-roadmap/oneid-core/utilo"
+	"github.com/kongmsr/oneid-core/utilo"
 	"testing"
 	"time"
 )
