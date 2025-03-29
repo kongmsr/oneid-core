@@ -2,8 +2,6 @@ module github.com/kongmsr/oneid-core
 
 go 1.23.0
 
-toolchain go1.23.1
-
 require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/uuid v1.6.0
