@@ -1,4 +1,4 @@
-- go version: gte 1.21
+- go version: gte 1.23
 
 ## oneid-core
 
