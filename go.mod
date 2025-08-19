@@ -6,7 +6,7 @@ require (
 	github.com/alice52/jasypt-go v1.0.7
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/uuid v1.6.0
-	github.com/gookit/goutil v0.7.0
+	github.com/gookit/goutil v0.7.1
 	github.com/jinzhu/copier v0.4.0
 	github.com/spf13/cast v1.9.2
 	github.com/stretchr/testify v1.10.0
