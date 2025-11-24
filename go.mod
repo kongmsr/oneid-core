@@ -1,6 +1,6 @@
 module github.com/kongmsr/oneid-core
 
-go 1.23.1
+go 1.24.0
 
 require (
 	github.com/alice52/jasypt-go v1.0.7
@@ -10,7 +10,7 @@ require (
 	github.com/jinzhu/copier v0.4.0
 	github.com/spf13/cast v1.9.2
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/crypto v0.40.0
+	golang.org/x/crypto v0.45.0
 )
 
 require (
